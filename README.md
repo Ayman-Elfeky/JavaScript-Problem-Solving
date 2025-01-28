@@ -54,12 +54,12 @@ Contributions are welcome! Follow these steps to contribute:
    ```
 3. Create a new branch:
    ```bash
-   git checkout -b feature-name
+   git checkout -b branch-name
    ```
 4. Commit and push your changes:
    ```bash
    git commit -m "Description of your changes"
-   git push origin feature-name
+   git push origin branch-name
    ```
 5. Open a pull request.
 
